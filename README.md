@@ -32,5 +32,8 @@ Sample Output
 ### Top Batsmen
 ![Top Batsmen](top_batsmen.png)
 
+### Top Bowlers
+![Top Bowlers](top_bowlers.png)
+
 ### Team Wins
 ![Team Wins](team_wins.png)
