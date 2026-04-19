@@ -3,19 +3,19 @@
 ## Overview
 This project analyzes IPL cricket data using Python to extract insights about players and teams.
 
-## Tools Used
+## 🔧 Tools Used
 - Python (Pandas, Matplotlib)
 - Machine Learning (Random Forest)
 - Google Colab
 
-## Features
+## 📊 Features
 - Top batsmen analysis
 - Top bowlers analysis
 - Team performance insights
 - Toss impact analysis
 - Match prediction model
 
-## Output
+## 📈 Output
 - Graphs showing player performance
 - Match prediction accuracy
 
@@ -29,11 +29,18 @@ Jayanth Yadav
 
 Sample Output
 
-### Top Batsmen
+### 🔥 Top Batsmen Analysis
 ![Top Batsmen](top_batsmen.png)
 
-### Top Bowlers
+### 🎯 Top Bowlers Analysis
 ![Top Bowlers](top_bowlers.png)
 
 ### Team Wins
 ![Team Wins](team_wins.png)
+
+## 🤖 Model Performance
+- Algorithm: Random Forest
+- Accuracy: ~78%
+
+## 📌 Conclusion
+This project demonstrates how data analytics can be used in cricket to identify player performance, team trends, and predict match outcomes.
