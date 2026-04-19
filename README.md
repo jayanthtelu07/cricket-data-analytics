@@ -31,9 +31,11 @@ Sample Output
 
 ### 🔥 Top Batsmen Analysis
 ![Top Batsmen](top_batsmen.png)
+**Insight:** Virat Kohli is the leading run scorer, showing consistent performance across seasons. Other players like Rohit Sharma and David Warner also contribute significantly.
 
 ### 🎯 Top Bowlers Analysis
 ![Top Bowlers](top_bowlers.png)
+**Insight:** Harshal Patel leads the wicket tally, indicating strong bowling performance in the dataset. Other bowlers like Kagiso Rabada and Jasprit Bumrah also show consistent wicket-taking ability.
 
 ### Team Wins
 ![Team Wins](team_wins.png)
