@@ -26,3 +26,11 @@ This project analyzes IPL cricket data using Python to extract insights about pl
 
 ## Author
 Jayanth Yadav
+
+Sample Output
+
+### Top Batsmen
+![Top Batsmen](top_batsmen.png)
+
+### Team Wins
+![Team Wins](team_wins.png)
